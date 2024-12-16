@@ -1,0 +1,2 @@
+# GameCol
+Collection of gamrs
